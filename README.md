@@ -1,1 +1,28 @@
-# 100_Days_Python_Practice
+# 100 Days of Python
+
+This repository contains my solutions, exercises, and projects from the **100 Days of Code: The Complete Python Pro Bootcamp** by [Dr. Angela Yu on Udemy](https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOoqMLmzxd5u86sxq0MiHXl8Y0jWcjYI1UKo9eg1PL1tf2ZbmuhWf&couponCode=25BBPMXNVD35).
+
+The goal of this challenge is to improve my Python programming skills by building projects and practicing consistently every day.
+
+---
+
+## Repository Structure
+
+```text
+100-Days-of-Python/
+│
+├── Day-1/
+│   ├── main.py
+│   └── README.md
+│
+├── Day-2/
+│   ├── main.py
+│   └── README.md
+│
+├── Day-3/
+│   ├── main.py
+│   └── README.md
+│
+├── ...
+│
+└── README.md
