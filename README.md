@@ -32,6 +32,10 @@ The goal of this challenge is to improve my Python programming skills by buildin
 |   ├── shuffle_pass_gen.py
 |   ├── README.md
 |
+├── Day-6/
+|   ├── main.py
+|   ├── README.md
+|
 ├── ...
 │
 └── README.md
