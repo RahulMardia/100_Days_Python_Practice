@@ -36,6 +36,12 @@ The goal of this challenge is to improve my Python programming skills by buildin
 |   ├── main.py
 |   ├── README.md
 |
+├── Day-7/
+|   ├── main.py
+|   ├── hangman_art.py
+|   ├── hangman_words.py
+|   ├── README.md
+|
 ├── ...
 │
 └── README.md
