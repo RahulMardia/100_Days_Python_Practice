@@ -47,7 +47,12 @@ The goal of this challenge is to improve my Python programming skills by buildin
 |   ├── art.py
 |   ├── README.md
 |   
-── Day-9/
+|── Day-9/
+|   ├── main.py
+|   ├── art.py
+|   ├── README.md
+|
+|── Day-10/
 |   ├── main.py
 |   ├── art.py
 |   ├── README.md
