@@ -80,6 +80,34 @@ The goal of this challenge is to improve my Python programming skills by buildin
 |   ├── main.py
 |   ├── README.md 
 |
+|── Day-16/
+|   ├── main.py
+|   ├── menu.py
+|   ├── coffee_maker.py
+|   ├── money_machine.py
+|   ├── README.md 
+|
+|── Day-17/
+|   ├── data.py
+|   ├── learning.py
+|   ├── main.py
+|   ├── question_model.py
+|   ├── quiz_brain.py
+|   ├── README.md 
+|
+|── Day-18/
+|   ├── main.py
+|   ├── hirst_painting.py
+|   ├── random_walk.py
+|   ├── spirograph.py
+|   ├── README.md 
+|
+|── Day-19/
+|   ├── etch_a_sketch.py
+|   ├── key_listener.py
+|   ├── turtle_race.py
+|   ├── README.md 
+|
 ├── ...
 │
 └── README.md
