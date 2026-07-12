@@ -111,6 +111,12 @@ The goal of this challenge is to improve my Python programming skills by buildin
 |── Day-20/
 |   ├── main.py
 |   ├── Snake.py
+|   ├── Food.py
+|   ├── Scoreboard.py
+|   ├── README.md
+|
+|── Day-21/
+|   ├── inheritance.py
 |   ├── README.md
 |
 ├── ...
