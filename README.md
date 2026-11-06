@@ -6,7 +6,7 @@ The goal of this challenge is to improve my Python programming skills by buildin
 
 ---
 
-## Repository Structure
+## Repository Structure  
 
 ```text
 100-Days-of-Python/
