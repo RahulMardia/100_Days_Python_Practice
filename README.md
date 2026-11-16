@@ -4,7 +4,7 @@ This repository contains my solutions, exercises, and projects from the **100 Da
 
 The goal of this challenge is to improve my Python programming skills by building projects and practicing consistently every day.
 
----
+--- 
 
 ## Repository Structure  
 
